@@ -1,0 +1,12 @@
+.DS_Storegit
+/node_modules
+/build
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
